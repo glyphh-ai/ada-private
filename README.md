@@ -1,3 +1,5 @@
+> **Moved.** This repository is archived. It now lives, with its full history, in [glyphh-ai/glyphh](https://github.com/glyphh-ai/glyphh/tree/main/kernel) as `kernel/`. Ada is a Glyphh Labs project and is no longer a hosted service: https://glyphh.ai
+
 # Ada
 
 An algebra of thought for AI. One Python file, one dependency (numpy).
